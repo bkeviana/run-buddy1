@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+    text-align: center;
+}
+.intro h2 {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    border-color: #fce138;
+  }
+
+/* Hero Style Start */
+.hero {
+  background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
+  height: 600px;
+}
+/* Hero Style End */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #39a6b2;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  padding: 20px 35px;
+  background-color: #39a6b2;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+}
+
+header h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: #fce138;
+  margin: 0;
+  display: inline;
+}
+
+header a {
+  color: #fce138;
+  text-decoration: none;
+  color: #fce138;
+}
+header nav {
+  float: right;
+  margin: 7px 0;
+}
+header nav ul li {
+  display: inline;
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+  section {
+    padding: 60px;
+    background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
+  }
